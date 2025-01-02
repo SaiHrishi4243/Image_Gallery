@@ -207,7 +207,7 @@ Publish the website in the given URL.
 
 <div class="gallery">
     <div class="gallery-item" onclick="showAlert('Image 1 clicked!')">
-        <img src="img1.jpg" alt="Image 1">
+        <img src="" alt="Image 1">
     </div>
     <div class="gallery-item" onclick="showAlert('Image 2 clicked!')">
         <img src="img2.jpg" alt="Image 2" >
