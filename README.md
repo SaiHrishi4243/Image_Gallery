@@ -272,7 +272,7 @@ Publish the website in the given URL.
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-01-02 021859.png>)
+
 
 ![alt text](<Screenshot 2025-01-02 021918.png>)
 
