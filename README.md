@@ -272,7 +272,7 @@ Publish the website in the given URL.
 
 ## OUTPUT
 
-
+![Screenshot 2025-01-02 021859](https://github.com/user-attachments/assets/44d0487f-8912-488c-b3e0-bcd2c7974f5e)
 
 ![alt text](<Screenshot 2025-01-02 021918.png>)
 
